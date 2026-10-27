@@ -1,0 +1,8 @@
+{
+ "source": "Team Assignment Tool, combination \"3v3v3\" (marked Final)",
+ "teams": [
+  { "name": "Team 1", "color": "#0039a6", "players": ["Lani", "Moon", "Han"] },
+  { "name": "Team 2", "color": "#ff6319", "players": ["David", "Paulina", "Diego"] },
+  { "name": "Team 3", "color": "#00933c", "players": ["Kathy", "Trinh", "Kwak"] }
+ ]
+}

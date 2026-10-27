@@ -1,0 +1,3296 @@
+[
+ {
+  "id": "POP-01",
+  "category": "pop",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Tribeca",
+  "place": "Hook & Ladder 8, 14 N Moore St (Tribeca)",
+  "lat": 40.7197,
+  "lng": -74.0066,
+  "anyLocation": false,
+  "title": "Who You Gonna Call?",
+  "description": "Find the working firehouse used as the Ghostbusters HQ and strike the full team \"ready to bust\" pose out front.",
+  "steps": [
+   "Stand across the street so the whole facade fits in frame.",
+   "Every teammate holds an imaginary proton pack, aimed at the same spot.",
+   "Look for the Ghostbusters logo painted on the sidewalk or door for a bonus shot."
+  ],
+  "proof": "1 photo of the team posing with the firehouse doors visible.",
+  "note": "This is an active FDNY station. Never block the bay doors.",
+  "distanceMiles": 7.81,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Franklin St (1).",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 42,
+   "st": "Franklin St"
+  },
+  "sort": 0
+ },
+ {
+  "id": "POP-02",
+  "category": "pop",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "West Village",
+  "place": "90 Bedford St at Grove St (West Village)",
+  "lat": 40.7324,
+  "lng": -74.0054,
+  "anyLocation": false,
+  "title": "The One With the Building",
+  "description": "Track down the corner building used for the exterior shots in Friends and film a 10-second \"PIVOT!\" reenactment.",
+  "steps": [
+   "Take a team photo with the corner and both street signs in frame.",
+   "Film one teammate \"pivoting\" an imaginary couch up the sidewalk while the other directs.",
+   "Keep the sidewalk clear for residents."
+  ],
+  "proof": "1 photo + 1 video (10 sec max).",
+  "note": null,
+  "distanceMiles": 6.97,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Christopher St-Sheridan Sq (1).",
+    "Walk ~4 min to the quest spot."
+   ],
+   "mins": 41,
+   "st": "Christopher St-Sheridan Sq"
+  },
+  "sort": 1
+ },
+ {
+  "id": "POP-03",
+  "category": "pop",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 1,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Morningside Heights",
+  "place": "Tom's Restaurant, 2880 Broadway at W 112th St",
+  "lat": 40.8055,
+  "lng": -73.9656,
+  "anyLocation": false,
+  "title": "A Quest About Nothing",
+  "description": "Get to the diner whose sign stood in for Monk's Café in Seinfeld. Order something small and pitch a sitcom episode about your team's day.",
+  "steps": [
+   "Photograph the neon \"Restaurant\" sign from the corner.",
+   "Order anything at the counter or a booth.",
+   "Write a two-sentence episode log line about something trivial that happened to your team today."
+  ],
+  "proof": "1 photo of the sign + text submission with your log line.",
+  "note": null,
+  "distanceMiles": 1.51,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 116 St-Columbia University (1).",
+    "Walk ~4 min to the quest spot."
+   ],
+   "mins": 20,
+   "st": "116 St-Columbia University"
+  },
+  "sort": 2
+ },
+ {
+  "id": "POP-04",
+  "category": "pop",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "place": "Tiffany & Co., Fifth Ave at E 57th St",
+  "lat": 40.7625,
+  "lng": -73.9739,
+  "anyLocation": false,
+  "title": "Breakfast at Tiffany’s",
+  "description": "Recreate the opening scene of Breakfast at Tiffany’s: pastry and coffee in hand, gazing into the Fifth Avenue windows.",
+  "steps": [
+   "Grab a pastry and a coffee nearby.",
+   "One teammate gazes wistfully into the window while the other shoots from behind.",
+   "Sunglasses and anything black earn style points from the Game Master."
+  ],
+  "proof": "1 photo showing the window and the pastry.",
+  "note": null,
+  "distanceMiles": 4.47,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train to 7 Av.",
+    "Transfer to a downtown E train and ride to 5 Av/53 St.",
+    "Walk ~4 min to the quest spot."
+   ],
+   "mins": 41,
+   "st": "5 Av/53 St"
+  },
+  "sort": 3
+ },
+ {
+  "id": "POP-05",
+  "category": "pop",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Lower East Side",
+  "place": "Katz's Delicatessen, 205 E Houston St",
+  "lat": 40.7223,
+  "lng": -73.9874,
+  "anyLocation": false,
+  "title": "I’ll Have What She’s Having",
+  "description": "Find the table at Katz’s marked with the sign from When Harry Met Sally and deliver the famous deadpan line. Keep it PG.",
+  "steps": [
+   "Take a ticket at the door and order something to share (pastrami is the classic).",
+   "Find the hanging sign that marks the table from the movie.",
+   "Film one teammate delivering the waiter-side line with a straight face."
+  ],
+  "proof": "1 photo of the sign + 1 video (10 sec max).",
+  "note": "Lines can be long on weekends. Don’t lose your paper ticket; it’s how you pay.",
+  "distanceMiles": 7.33,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to Broadway-Lafayette St (6 B D F M).",
+    "Walk ~12 min to the quest spot."
+   ],
+   "mins": 54,
+   "st": "Broadway-Lafayette St"
+  },
+  "sort": 4
+ },
+ {
+  "id": "POP-06",
+  "category": "pop",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 1,
+  "groupSize": 3,
+  "minutes": 90,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Bronx",
+  "neighborhood": "Concourse",
+  "place": "\"Joker Stairs\", W 167th St steps (Shakespeare to Anderson Ave)",
+  "lat": 40.8363,
+  "lng": -73.9198,
+  "anyLocation": false,
+  "title": "Stairway to Gotham",
+  "description": "All participating teams meet at the stairs from the 2019 Joker film and perform one synchronized stair-dance, filmed in a single take.",
+  "steps": [
+   "Setup: Three teams each own a section of the stairs (top, middle, bottom) for one 8-count routine.",
+   "Agree on a meet time in the group chat; first team on site scouts a clear moment.",
+   "Choreograph an 8-count routine: one team per step section.",
+   "One person from the last team to arrive films from the bottom of the stairs."
+  ],
+  "proof": "1 video (30 sec max) with every participating team visible.",
+  "note": "This is a residential stairway. Keep it short, keep the path clear, and leave no trace.",
+  "distanceMiles": 1.89,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Bronx-bound B/D train.",
+    "Ride to 167 St (B D).",
+    "Walk ~5 min to the quest spot."
+   ],
+   "mins": 30,
+   "st": "167 St"
+  },
+  "sort": 5
+ },
+ {
+  "id": "POP-07",
+  "category": "pop",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 120,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village",
+  "place": "Any filming location (suggested: Washington Square Park)",
+  "lat": 40.7308,
+  "lng": -73.9973,
+  "anyLocation": true,
+  "title": "Coming Soon to a Theater Near You",
+  "description": "Your team shoots three short scenes at three different real filming locations, then stitches them into one fake movie trailer.",
+  "steps": [
+   "Pick a fake movie title and genre.",
+   "Shoot a 10-second scene at each of three filming locations (for example the Friends building, the Ghostbusters firehouse and Washington Square).",
+   "Record an \"In a world...\" voiceover and edit the clips together."
+  ],
+  "proof": "1 combined video (45 sec max) + text listing the three locations.",
+  "note": null,
+  "distanceMiles": 6.92,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown A/B/C/D train.",
+    "Ride to W 4 St-Wash Sq (A B C D E F M).",
+    "Walk ~5 min to the quest spot."
+   ],
+   "mins": 46,
+   "st": "W 4 St-Wash Sq"
+  },
+  "sort": 6
+ },
+ {
+  "id": "HIS-01",
+  "category": "hist",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 30,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Financial District",
+  "place": "Charging Bull (Bowling Green) and Fearless Girl (Broad St)",
+  "lat": 40.7056,
+  "lng": -74.0134,
+  "anyLocation": false,
+  "title": "Bull Market, Brave Girl",
+  "description": "Visit both Financial District bronzes. Pose like Fearless Girl at her current spot facing the Stock Exchange, then face down the Bull.",
+  "steps": [
+   "Start at the Charging Bull at Bowling Green; expect a crowd.",
+   "Walk to Fearless Girl on Broad Street, opposite the New York Stock Exchange.",
+   "Copy her stance exactly: hands on hips, chin up."
+  ],
+  "proof": "2 photos: one at each statue.",
+  "note": null,
+  "distanceMiles": 8.85,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Rector St (1).",
+    "Walk ~3 min to the quest spot."
+   ],
+   "mins": 51,
+   "st": "Rector St"
+  },
+  "sort": 7
+ },
+ {
+  "id": "HIS-02",
+  "category": "hist",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Financial District",
+  "place": "Federal Hall, 26 Wall St",
+  "lat": 40.7073,
+  "lng": -74.0103,
+  "anyLocation": false,
+  "title": "So Help Me, Team",
+  "description": "Take the oath of office on the steps where George Washington was inaugurated as the first U.S. president.",
+  "steps": [
+   "Stand below the Washington statue on the Federal Hall steps.",
+   "One teammate raises a right hand; the other holds a \"Bible\" (a phone works).",
+   "Answer: on what date did Washington take the oath here?"
+  ],
+  "proof": "1 photo + text answer (correct: April 30, 1789).",
+  "note": null,
+  "distanceMiles": 8.68,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Rector St (1).",
+    "Walk ~5 min to the quest spot."
+   ],
+   "mins": 47,
+   "st": "Rector St"
+  },
+  "sort": 8
+ },
+ {
+  "id": "HIS-03",
+  "category": "hist",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Financial District",
+  "place": "Fraunces Tavern, 54 Pearl St",
+  "lat": 40.7034,
+  "lng": -74.0113,
+  "anyLocation": false,
+  "title": "Farewell, Officers",
+  "description": "Find the tavern where Washington said goodbye to his officers at the end of the Revolutionary War.",
+  "steps": [
+   "Photograph the brick facade with the building number visible.",
+   "Find a historic marker or plaque on or near the building.",
+   "Text one fact from the plaque in your own words."
+  ],
+  "proof": "1 photo + text fact.",
+  "note": null,
+  "distanceMiles": 8.95,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Whitehall St-South Ferry (1 R W).",
+    "Walk ~3 min to the quest spot."
+   ],
+   "mins": 51,
+   "st": "Whitehall St-South Ferry"
+  },
+  "sort": 9
+ },
+ {
+  "id": "HIS-04",
+  "category": "hist",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 40,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Financial District",
+  "place": "St. Paul's Chapel, 209 Broadway",
+  "lat": 40.7114,
+  "lng": -74.0094,
+  "anyLocation": false,
+  "title": "The Little Chapel That Stood",
+  "description": "Visit Manhattan’s oldest surviving church building, which served as a rest station for 9/11 recovery workers. A quiet, respectful quest.",
+  "steps": [
+   "Check that the chapel is open and enter quietly.",
+   "Find George Washington’s pew.",
+   "Text one sentence about how the chapel was used after September 11, 2001."
+  ],
+  "proof": "1 photo (no flash, no posing) + text answer.",
+  "note": "Scored on completion only; no funny poses here.",
+  "distanceMiles": 8.4,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to WTC Cortlandt (1).",
+    "Walk ~4 min to the quest spot."
+   ],
+   "mins": 44,
+   "st": "WTC Cortlandt"
+  },
+  "sort": 10
+ },
+ {
+  "id": "HIS-05",
+  "category": "hist",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Central Park",
+  "place": "Alice in Wonderland statue, Central Park near E 74th St",
+  "lat": 40.7754,
+  "lng": -73.9663,
+  "anyLocation": false,
+  "title": "Down the Rabbit Hole",
+  "description": "Climb onto the bronze Alice sculpture by Conservatory Water and recreate the scene with your team as the characters.",
+  "steps": [
+   "Assign roles: Alice, the Mad Hatter, the White Rabbit (pairs double up).",
+   "Pose on or beside the sculpture; kids have priority.",
+   "Bonus: a teacup prop of any kind."
+  ],
+  "proof": "1 photo with every teammate in character.",
+  "note": null,
+  "distanceMiles": 3.51,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/C train.",
+    "Ride to 81 St-Museum of Natural History (B C).",
+    "Walk ~13 min to the quest spot."
+   ],
+   "mins": 45,
+   "st": "81 St-Museum of Natural History"
+  },
+  "sort": 11
+ },
+ {
+  "id": "HIS-06",
+  "category": "hist",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 1,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Morningside Heights",
+  "place": "General Grant National Memorial, Riverside Dr & W 122nd St",
+  "lat": 40.8134,
+  "lng": -73.9631,
+  "anyLocation": false,
+  "title": "Who’s Buried in Grant’s Tomb?",
+  "description": "Settle the oldest trick question in New York at the largest mausoleum in North America.",
+  "steps": [
+   "Photograph the team on the front steps with the columns behind you.",
+   "Read the signage or ask a ranger if the memorial is open.",
+   "Answer the trick question correctly and explain the catch."
+  ],
+  "proof": "1 photo + text: who rests there, and why \"buried\" is technically wrong.",
+  "note": null,
+  "distanceMiles": 0.97,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 125 St (1).",
+    "Walk ~7 min to the quest spot."
+   ],
+   "mins": 21,
+   "st": "125 St"
+  },
+  "sort": 12
+ },
+ {
+  "id": "HIS-07",
+  "category": "hist",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 3,
+  "groupSize": 3,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village",
+  "place": "Washington Square Arch",
+  "lat": 40.7312,
+  "lng": -73.9971,
+  "anyLocation": false,
+  "title": "Living History Tableau",
+  "description": "All teams pick one famous historical photo or painting and recreate it together under the arch, with every person in a role.",
+  "steps": [
+   "Setup: Three teams each own one part of the scene: main figures, background, props and the photographer.",
+   "Vote in the group chat on the image to recreate (a public-domain painting works well).",
+   "Each team owns one part of the scene and its props.",
+   "Shoot the still, then a 10-second video of the scene \"coming to life\"."
+  ],
+  "proof": "1 photo + 1 video + text naming the original image.",
+  "note": null,
+  "distanceMiles": 6.89,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown A/B/C/D train.",
+    "Ride to W 4 St-Wash Sq (A B C D E F M).",
+    "Walk ~5 min to the quest spot."
+   ],
+   "mins": 45,
+   "st": "W 4 St-Wash Sq"
+  },
+  "sort": 13
+ },
+ {
+  "id": "HIS-08",
+  "category": "hist",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 120,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Financial District",
+  "place": "Any historic marker (suggested: Bowling Green)",
+  "lat": 40.7049,
+  "lng": -74.0137,
+  "anyLocation": true,
+  "title": "The Plaque Relay",
+  "description": "Build a mini history book: find three historic plaques in three different neighborhoods, each from a different century.",
+  "steps": [
+   "Choose three neighborhoods and plan a route between them.",
+   "Photograph one plaque in each, with no two from the same century.",
+   "Write one fact per plaque in your own words and post them as a timeline."
+  ],
+  "proof": "3 photos + text timeline.",
+  "note": null,
+  "distanceMiles": 8.9,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Rector St (1).",
+    "Walk ~5 min to the quest spot."
+   ],
+   "mins": 52,
+   "st": "Rector St"
+  },
+  "sort": 14
+ },
+ {
+  "id": "ARC-01",
+  "category": "arch",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "place": "Whispering Gallery, Grand Central Terminal (lower level)",
+  "lat": 40.7527,
+  "lng": -73.9772,
+  "anyLocation": false,
+  "title": "Whisper Across the Arch",
+  "description": "Use the tiled arches outside the Oyster Bar to send a secret across the room.",
+  "steps": [
+   "Two teammates stand in diagonally opposite corners, faces to the wall.",
+   "One whispers a three-word Friendsgiving password.",
+   "The other repeats it back out loud while it’s filmed."
+  ],
+  "proof": "1 video showing both corners and the password repeated correctly.",
+  "note": "Pairs: prop the phone on a ledge to film. Trios: the third person films.",
+  "distanceMiles": 5.16,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to 42 St-Bryant Pk (7 B D F M).",
+    "Walk ~8 min to the quest spot."
+   ],
+   "mins": 37,
+   "st": "42 St-Bryant Pk"
+  },
+  "sort": 15
+ },
+ {
+  "id": "ARC-02",
+  "category": "arch",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 15,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "place": "Chrysler Building, 405 Lexington Ave",
+  "lat": 40.7516,
+  "lng": -73.9755,
+  "anyLocation": false,
+  "title": "Eagle Eyes",
+  "description": "Spot the steel eagle gargoyles jutting from the Chrysler Building’s upper corners and get a clear shot from street level.",
+  "steps": [
+   "Try Lexington Ave and 42nd St, or a block east for a better angle.",
+   "Zoom until an eagle head fills most of the frame.",
+   "A teammate mimics the eagle pose in a second shot."
+  ],
+  "proof": "2 photos: the eagle close-up and the teammate impression.",
+  "note": null,
+  "distanceMiles": 5.22,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to 42 St-Bryant Pk (7 B D F M).",
+    "Walk ~11 min to the quest spot."
+   ],
+   "mins": 38,
+   "st": "42 St-Bryant Pk"
+  },
+  "sort": 16
+ },
+ {
+  "id": "ARC-03",
+  "category": "arch",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "West Village",
+  "place": "75½ Bedford St (West Village)",
+  "lat": 40.7316,
+  "lng": -74.0052,
+  "anyLocation": false,
+  "title": "Squeeze Play",
+  "description": "Find one of the narrowest houses in New York, under 10 feet wide, and measure it in teammates.",
+  "steps": [
+   "Stand shoulder to shoulder in front of the facade (from the sidewalk only).",
+   "Count how many of you span the width.",
+   "Find out which Pulitzer-winning poet once lived here."
+  ],
+  "proof": "1 photo + text: your teammate count and the poet’s name.",
+  "note": null,
+  "distanceMiles": 7.02,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Christopher St-Sheridan Sq (1).",
+    "Walk ~4 min to the quest spot."
+   ],
+   "mins": 41,
+   "st": "Christopher St-Sheridan Sq"
+  },
+  "sort": 17
+ },
+ {
+  "id": "ARC-04",
+  "category": "arch",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 5,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Brooklyn Heights",
+  "place": "58 Joralemon St (Brooklyn Heights)",
+  "lat": 40.6928,
+  "lng": -73.9963,
+  "anyLocation": false,
+  "title": "The House Nobody Lives In",
+  "description": "On a quiet Brooklyn Heights block sits a brownstone with blacked-out windows. Figure out what is really behind the door.",
+  "steps": [
+   "Find the house; look closely at the windows and door.",
+   "Photograph it alongside a \"normal\" neighboring brownstone.",
+   "Answer: what does this building actually hide?"
+  ],
+  "proof": "1 photo + text answer (it’s a disguised subway ventilation and emergency exit).",
+  "note": null,
+  "distanceMiles": 9.42,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Brooklyn-bound A/C train.",
+    "Ride to High St (A C).",
+    "Walk ~14 min to the quest spot."
+   ],
+   "mins": 57,
+   "st": "High St"
+  },
+  "sort": 18
+ },
+ {
+  "id": "ARC-05",
+  "category": "arch",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Civic Center",
+  "place": "Brooklyn Bridge–City Hall station (6 train)",
+  "lat": 40.7127,
+  "lng": -74.0059,
+  "anyLocation": false,
+  "title": "The Ghost Station",
+  "description": "Glimpse the closed 1904 City Hall station, with its tiled vaults and skylights, by staying aboard a downtown 6 train as it loops around.",
+  "steps": [
+   "Board a downtown 6 train and stay on at the last stop.",
+   "Move to a window on the right side of the car.",
+   "Film as the train curves through the old station."
+  ],
+  "proof": "1 video (20 sec max) showing the arches.",
+  "note": "Stay on the train; never step onto the tracks or platform edge.",
+  "distanceMiles": 8.25,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Chambers St (1 2 3).",
+    "Walk ~7 min to the quest spot.",
+    "Ride the downtown 6 past the last stop to see the loop."
+   ],
+   "mins": 46,
+   "st": "Chambers St"
+  },
+  "sort": 19
+ },
+ {
+  "id": "ARC-06",
+  "category": "arch",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 15,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Lower East Side",
+  "place": "Freeman Alley, off Rivington St (Lower East Side)",
+  "lat": 40.7219,
+  "lng": -73.9925,
+  "anyLocation": false,
+  "title": "Dead-End Gallery",
+  "description": "Find the narrow dead-end alley covered floor to ceiling in stickers, tags and murals.",
+  "steps": [
+   "Walk to the very end of the alley.",
+   "Find the oldest-looking piece and the newest-looking piece.",
+   "Photograph your team framed by the alley walls."
+  ],
+  "proof": "1 team photo in the alley.",
+  "note": null,
+  "distanceMiles": 7.43,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to Broadway-Lafayette St (6 B D F M).",
+    "Walk ~7 min to the quest spot."
+   ],
+   "mins": 50,
+   "st": "Broadway-Lafayette St"
+  },
+  "sort": 20
+ },
+ {
+  "id": "ARC-07",
+  "category": "arch",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 15,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "West Village",
+  "place": "Hess Triangle, Seventh Ave S & Christopher St",
+  "lat": 40.7335,
+  "lng": -74.0026,
+  "anyLocation": false,
+  "title": "The Tiniest Protest",
+  "description": "Find a triangle of sidewalk tiles, a few inches across, that is one of the smallest pieces of private property in the city.",
+  "steps": [
+   "Look down at the sidewalk in front of the corner shop.",
+   "Line up all your team’s shoes around the mosaic.",
+   "Explain in your own words why it exists."
+  ],
+  "proof": "1 photo of shoes + mosaic + text explanation.",
+  "note": null,
+  "distanceMiles": 6.85,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Christopher St-Sheridan Sq (1).",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 37,
+   "st": "Christopher St-Sheridan Sq"
+  },
+  "sort": 21
+ },
+ {
+  "id": "ARC-08",
+  "category": "arch",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 2,
+  "groupSize": 2,
+  "minutes": 90,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "place": "Starting point: 30 Rockefeller Plaza (\"Wisdom\" relief)",
+  "lat": 40.759,
+  "lng": -73.979,
+  "anyLocation": false,
+  "title": "Look Up! Art Deco Census",
+  "description": "Teams split up to collect a full set of Midtown Art Deco details with no duplicates, then post a combined album.",
+  "steps": [
+   "Setup: Two teams split the five targets 3/2 and post one combined album.",
+   "Split these five targets between teams with no duplicates: the Wisdom relief over 30 Rock, the Chrysler eagles, the Daily News Building globe lobby (220 E 42nd), the Empire State Building facade, and Radio City’s marquee.",
+   "Each team photographs its targets with a teammate pointing up.",
+   "Write one detail per photo (a date, an artist or a material)."
+  ],
+  "proof": "Photos per team + text per photo, one combined album.",
+  "note": null,
+  "distanceMiles": 4.77,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to 47-50 Sts-Rockefeller Ctr (B D F M).",
+    "Walk ~3 min to the quest spot."
+   ],
+   "mins": 36,
+   "st": "47-50 Sts-Rockefeller Ctr"
+  },
+  "sort": 22
+ },
+ {
+  "id": "FOD-01",
+  "category": "food",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "East Village",
+  "place": "Any slice shop (suggested: St. Marks Pl)",
+  "lat": 40.7288,
+  "lng": -73.9879,
+  "anyLocation": true,
+  "title": "The Cheapest Slice",
+  "description": "Hunt for the cheapest plain cheese slice you can find. The lowest verified price across all teams wins a tiebreaker.",
+  "steps": [
+   "Compare at least two shops.",
+   "Buy one plain slice and fold it properly.",
+   "Photograph the slice next to the receipt or menu board."
+  ],
+  "proof": "1 photo + text: shop name and price.",
+  "note": null,
+  "distanceMiles": 6.9,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to Times Sq-42 St.",
+    "Transfer to a downtown R/W train and ride to 8 St-NYU.",
+    "Walk ~7 min to the quest spot."
+   ],
+   "mins": 51,
+   "st": "8 St-NYU"
+  },
+  "sort": 23
+ },
+ {
+  "id": "FOD-02",
+  "category": "food",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Lower East Side",
+  "place": "Russ & Daughters, 179 E Houston St",
+  "lat": 40.7225,
+  "lng": -73.9883,
+  "anyLocation": false,
+  "title": "Bagel Appetizing",
+  "description": "Order a bagel with schmear (lox optional) at a century-old appetizing shop and give it a professional review.",
+  "steps": [
+   "Take a number and order.",
+   "Photograph the bagel before the first bite.",
+   "Each teammate rates it 1–10 with a one-line review."
+  ],
+  "proof": "1 photo + text reviews.",
+  "note": null,
+  "distanceMiles": 7.33,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to Broadway-Lafayette St (6 B D F M).",
+    "Walk ~11 min to the quest spot."
+   ],
+   "mins": 53,
+   "st": "Broadway-Lafayette St"
+  },
+  "sort": 24
+ },
+ {
+  "id": "FOD-03",
+  "category": "food",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "place": "Any bakery or deli (suggested: Zabar's, Broadway at W 80th)",
+  "lat": 40.7849,
+  "lng": -73.9798,
+  "anyLocation": true,
+  "title": "Look to the Cookie",
+  "description": "Find a black-and-white cookie and eat it the \"correct\" way. Your team has to decide what that means.",
+  "steps": [
+   "Buy one cookie per team.",
+   "Agree on a technique: vanilla first, chocolate first, or straight down the middle.",
+   "Film the first bite with commentary."
+  ],
+  "proof": "1 video (15 sec max).",
+  "note": null,
+  "distanceMiles": 3.12,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 79 St (1).",
+    "Walk ~2 min to the quest spot."
+   ],
+   "mins": 24,
+   "st": "79 St"
+  },
+  "sort": 25
+ },
+ {
+  "id": "FOD-04",
+  "category": "food",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 1,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "East Harlem",
+  "place": "Blue Sky Deli, 1st Ave & E 110th St (East Harlem)",
+  "lat": 40.7922,
+  "lng": -73.9395,
+  "anyLocation": false,
+  "title": "Chopped Cheese Pilgrimage",
+  "description": "Go to the East Harlem bodega widely credited with popularizing the chopped cheese and order one.",
+  "steps": [
+   "Order the chopped cheese. Ask what toppings locals usually get.",
+   "Photograph it unwrapped.",
+   "Bonus photo if the bodega cat makes an appearance."
+  ],
+  "proof": "1 photo + text: the topping tip you got.",
+  "note": null,
+  "distanceMiles": 2.38,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train two stops to 125 St.",
+    "Catch an eastbound M60-SBS bus on 125th St and ride to 2nd Ave, then switch to a southbound M15 on 2nd Ave.",
+    "Ride to E 110th St and walk 1 block east to 1st Ave."
+   ],
+   "mins": 45,
+   "st": ""
+  },
+  "sort": 26
+ },
+ {
+  "id": "FOD-05",
+  "category": "food",
+  "type": "team",
+  "basePoints": 15,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 120,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Bronx",
+  "neighborhood": "Belmont",
+  "place": "Arthur Avenue Retail Market, 2344 Arthur Ave",
+  "lat": 40.855,
+  "lng": -73.8884,
+  "anyLocation": false,
+  "title": "The Real Little Italy",
+  "description": "Head to the Bronx’s Italian food street and assemble a three-item Italian picnic from three different shops.",
+  "steps": [
+   "Buy one item each from a bakery, a salumeria or cheese shop, and the market hall.",
+   "Ask one vendor how long their shop has been there.",
+   "Photograph the full spread."
+  ],
+  "proof": "1 photo + text: the three shops and the vendor’s answer.",
+  "note": null,
+  "distanceMiles": 3.95,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Bronx-bound B/D train.",
+    "Ride to 182-183 Sts (B D).",
+    "From the station it’s a ~16 min walk; a local bus or cab is quicker for the last stretch."
+   ],
+   "mins": 46,
+   "st": "182-183 Sts"
+  },
+  "sort": 27
+ },
+ {
+  "id": "FOD-06",
+  "category": "food",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 120,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Queens",
+  "neighborhood": "Jackson Heights",
+  "place": "Jackson Heights, 74th St & Roosevelt Ave",
+  "lat": 40.747,
+  "lng": -73.8913,
+  "anyLocation": false,
+  "title": "Momo Crawl",
+  "description": "Jackson Heights is home to some of the best Himalayan food in the city. Try momos from three different spots and crown a winner.",
+  "steps": [
+   "Visit three places (restaurants, carts or food courts).",
+   "Order a small plate at each and photograph it.",
+   "Rank the three with a reason for first place."
+  ],
+  "proof": "3 photos + text ranking.",
+  "note": null,
+  "distanceMiles": 6.28,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train to 7 Av.",
+    "Transfer to a Queens-bound E train and ride to Jackson Hts-Roosevelt Av.",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 51,
+   "st": "Jackson Hts-Roosevelt Av"
+  },
+  "sort": 28
+ },
+ {
+  "id": "FOD-07",
+  "category": "food",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 30,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "place": "The Halal Guys cart, W 53rd St & 6th Ave",
+  "lat": 40.7615,
+  "lng": -73.979,
+  "anyLocation": false,
+  "title": "White Sauce, Red Sauce",
+  "description": "Get a platter from the halal cart that started the city-wide craze and settle the sauce debate.",
+  "steps": [
+   "Order one platter for the team.",
+   "Try it with white sauce only, then with a dot of red.",
+   "Report how many seconds the red sauce took to hit."
+  ],
+  "proof": "1 photo + text verdict.",
+  "note": null,
+  "distanceMiles": 4.6,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to 7 Av (B D E).",
+    "Walk ~4 min to the quest spot."
+   ],
+   "mins": 35,
+   "st": "7 Av"
+  },
+  "sort": 29
+ },
+ {
+  "id": "FOD-08",
+  "category": "food",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 3,
+  "groupSize": 3,
+  "minutes": 150,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Gramercy",
+  "place": "Regroup point: Union Square Park",
+  "lat": 40.7359,
+  "lng": -73.9906,
+  "anyLocation": false,
+  "title": "Friendsgiving Potluck Relay",
+  "description": "Each team sources one dish from a different food neighborhood. Everyone regroups for a shared picnic.",
+  "steps": [
+   "Setup: Three teams, three dishes from three different food neighborhoods.",
+   "Claim different food neighborhoods: Chinatown, Koreatown, Little Italy, the East Village, Arthur Ave (Bronx) and so on.",
+   "Each team buys enough of one dish to share with everyone.",
+   "Regroup at the meetup, plate it up, and take a group photo over the spread."
+  ],
+  "proof": "1 group photo + text: each dish and where it came from.",
+  "note": null,
+  "distanceMiles": 6.47,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 6 Av (1 2 3 F L M).",
+    "Walk ~10 min to the quest spot."
+   ],
+   "mins": 43,
+   "st": "6 Av"
+  },
+  "sort": 30
+ },
+ {
+  "id": "ART-01",
+  "category": "art",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 15,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "place": "New York Public Library, Fifth Ave & 42nd St",
+  "lat": 40.7532,
+  "lng": -73.9822,
+  "anyLocation": false,
+  "title": "Patience and Fortitude",
+  "description": "Meet the two marble lions guarding the main library and work out which one is which.",
+  "steps": [
+   "Each teammate poses as one lion (a trio’s third person is the reader between them).",
+   "Photograph from the bottom of the steps.",
+   "Name both lions and say which side each is on."
+  ],
+  "proof": "1 photo + text (Patience is on the south side, Fortitude on the north).",
+  "note": null,
+  "distanceMiles": 5.2,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to 42 St-Bryant Pk (7 B D F M).",
+    "Walk ~2 min to the quest spot."
+   ],
+   "mins": 38,
+   "st": "42 St-Bryant Pk"
+  },
+  "sort": 31
+ },
+ {
+  "id": "ART-02",
+  "category": "art",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 1,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "East Harlem",
+  "place": "Keith Haring \"Crack Is Wack\" mural, E 128th St & Harlem River Dr",
+  "lat": 40.8075,
+  "lng": -73.934,
+  "anyLocation": false,
+  "title": "Haring in Harlem",
+  "description": "Find Keith Haring’s 1986 handball-court mural, one of his best-known public works.",
+  "steps": [
+   "Find the mural beside the playground (walk carefully; it’s by a highway ramp).",
+   "Photograph it without people in the way.",
+   "Text what year it was painted and one thing you notice in it."
+  ],
+  "proof": "1 photo + text.",
+  "note": null,
+  "distanceMiles": 1.56,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train two stops to 125 St.",
+    "Catch an eastbound M60-SBS bus on 125th St and get off at 2nd Ave.",
+    "Walk ~6 min north to the playground at E 128th St."
+   ],
+   "mins": 39,
+   "st": ""
+  },
+  "sort": 32
+ },
+ {
+  "id": "ART-03",
+  "category": "art",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Bushwick",
+  "place": "Bushwick Collective, Troutman St & St Nicholas Ave",
+  "lat": 40.7068,
+  "lng": -73.9226,
+  "anyLocation": false,
+  "title": "Bushwick Mural Walk",
+  "description": "Walk the blocks of rotating murals around the Jefferson St area and curate your own three-piece show.",
+  "steps": [
+   "Find three murals by three different artists (look for the signatures).",
+   "Photograph each with a teammate for scale.",
+   "Write a one-line \"museum label\" for your favorite."
+  ],
+  "proof": "3 photos + text label.",
+  "note": null,
+  "distanceMiles": 8.32,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to 6 Av.",
+    "Transfer to a Brooklyn-bound L train and ride to Jefferson St.",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 62,
+   "st": "Jefferson St"
+  },
+  "sort": 33
+ },
+ {
+  "id": "ART-04",
+  "category": "art",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 30,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "East Village",
+  "place": "Strand Bookstore, 828 Broadway at E 12th St",
+  "lat": 40.7332,
+  "lng": -73.9907,
+  "anyLocation": false,
+  "title": "Eighteen Miles of Books",
+  "description": "Browse the sidewalk carts outside the Strand and find the most New York book title you can.",
+  "steps": [
+   "Search the outdoor carts, or inside if it’s raining.",
+   "Photograph the cover with a teammate’s best \"reading\" face.",
+   "Buying it is optional."
+  ],
+  "proof": "1 photo + text: the title and why it wins.",
+  "note": null,
+  "distanceMiles": 6.65,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 6 Av (1 2 3 F L M).",
+    "Walk ~12 min to the quest spot."
+   ],
+   "mins": 45,
+   "st": "6 Av"
+  },
+  "sort": 34
+ },
+ {
+  "id": "ART-05",
+  "category": "art",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "place": "81st St–Museum of Natural History station (B/C)",
+  "lat": 40.7816,
+  "lng": -73.9721,
+  "anyLocation": false,
+  "title": "Subway Safari",
+  "description": "This station’s walls are full of mosaic animals, fossils and creatures. Find three.",
+  "steps": [
+   "Tap in at 81st St (or ride through on the B/C).",
+   "Find a mosaic mammal, a bird and a prehistoric creature.",
+   "Each photo needs a teammate copying the animal’s pose."
+  ],
+  "proof": "3 photos.",
+  "note": null,
+  "distanceMiles": 3.17,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/C train.",
+    "Ride to 81 St-Museum of Natural History (B C).",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 32,
+   "st": "81 St-Museum of Natural History"
+  },
+  "sort": 35
+ },
+ {
+  "id": "ART-06",
+  "category": "art",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 15,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "place": "Atlas statue, Rockefeller Center (Fifth Ave)",
+  "lat": 40.759,
+  "lng": -73.9779,
+  "anyLocation": false,
+  "title": "Hold Up the World",
+  "description": "Hold up the heavens alongside the giant bronze Atlas facing St. Patrick’s Cathedral.",
+  "steps": [
+   "Stand so your arms line up with the sphere in the shot.",
+   "Every teammate strains like they’re lifting it.",
+   "Try a forced-perspective version too."
+  ],
+  "proof": "1 photo.",
+  "note": null,
+  "distanceMiles": 4.75,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to 47-50 Sts-Rockefeller Ctr (B D F M).",
+    "Walk ~5 min to the quest spot."
+   ],
+   "mins": 37,
+   "st": "47-50 Sts-Rockefeller Ctr"
+  },
+  "sort": 36
+ },
+ {
+  "id": "ART-07",
+  "category": "art",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 90,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Chelsea",
+  "place": "Chelsea galleries, W 20s between 10th & 11th Aves",
+  "lat": 40.748,
+  "lng": -74.005,
+  "anyLocation": false,
+  "title": "The Critics’ Circle",
+  "description": "Visit two free Chelsea galleries and record an over-the-top art-critic review of each.",
+  "steps": [
+   "Pick two galleries on the W 20s blocks between 10th and 11th Aves.",
+   "Film a 20-second review outside each gallery (not inside), using the words \"liminal\", \"juxtaposition\" and \"gesture\".",
+   "Give each show a star rating out of five."
+  ],
+  "proof": "2 videos (20 sec max each).",
+  "note": "Most Chelsea galleries are closed Sunday and Monday.",
+  "distanceMiles": 5.99,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown C train.",
+    "Ride to 23 St (C E).",
+    "Walk ~10 min to the quest spot."
+   ],
+   "mins": 48,
+   "st": "23 St"
+  },
+  "sort": 37
+ },
+ {
+  "id": "ART-08",
+  "category": "art",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 4,
+  "groupSize": 2,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Brooklyn Heights",
+  "place": "Brooklyn Bridge Park, Pier 1",
+  "lat": 40.7022,
+  "lng": -73.9963,
+  "anyLocation": false,
+  "title": "Crossing the East River",
+  "description": "Restage the painting \"Washington Crossing the Delaware\" (it hangs at the Met) with the East River and Manhattan behind you.",
+  "steps": [
+   "Setup: Two teams: one plays Washington and the flag, the other the rowers.",
+   "Look up the painting; assign Washington, the flag-bearer and the rowers.",
+   "Use a bench or railing as the boat, with the river behind.",
+   "Each team brings one prop."
+  ],
+  "proof": "1 group photo + text listing who played Washington.",
+  "note": null,
+  "distanceMiles": 8.79,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Brooklyn-bound A/C train.",
+    "Ride to High St (A C).",
+    "Walk ~9 min to the quest spot."
+   ],
+   "mins": 57,
+   "st": "High St"
+  },
+  "sort": 38
+ },
+ {
+  "id": "TRN-01",
+  "category": "transit",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Upper East Side",
+  "place": "Roosevelt Island Tram, 2nd Ave & E 59th St",
+  "lat": 40.7613,
+  "lng": -73.9645,
+  "anyLocation": false,
+  "title": "Cable Car Commute",
+  "description": "Ride the aerial tram over the East River to Roosevelt Island (part of Manhattan) for a skyline view in a subway fare.",
+  "steps": [
+   "Tap in with OMNY or a MetroCard at the 59th St station.",
+   "Grab a window spot on the river side.",
+   "Film the skyline as the cabin climbs."
+  ],
+  "proof": "1 video (20 sec max).",
+  "note": null,
+  "distanceMiles": 4.45,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Bronx-bound B/D train to 161 St-Yankee Stadium.",
+    "Transfer to a downtown 4 train and ride to Lexington Av/59 St.",
+    "Walk ~5 min to the quest spot.",
+    "Then tap into the tram at 2nd Ave & E 59th St with the same fare."
+   ],
+   "mins": 47,
+   "st": "Lexington Av/59 St"
+  },
+  "sort": 39
+ },
+ {
+  "id": "TRN-02",
+  "category": "transit",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Financial District",
+  "place": "NYC Ferry, Wall St / Pier 11",
+  "lat": 40.7032,
+  "lng": -74.0055,
+  "anyLocation": false,
+  "title": "Boat Commute",
+  "description": "Take an NYC Ferry leg on the East River route and catch the bridges from the water.",
+  "steps": [
+   "Buy tickets in the NYC Ferry app or at the pier machine.",
+   "Ride at least one stop, ideally under a bridge.",
+   "Film the moment you pass under it."
+  ],
+  "proof": "1 photo of the team on deck + 1 video.",
+  "note": null,
+  "distanceMiles": 8.86,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Whitehall St-South Ferry (1 R W).",
+    "Walk ~10 min to the quest spot.",
+    "Then buy a ferry ticket in the NYC Ferry app at Pier 11."
+   ],
+   "mins": 53,
+   "st": "Whitehall St-South Ferry"
+  },
+  "sort": 40
+ },
+ {
+  "id": "TRN-03",
+  "category": "transit",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Civic Center",
+  "place": "Brooklyn Bridge (Manhattan entrance by City Hall)",
+  "lat": 40.7115,
+  "lng": -74.0039,
+  "anyLocation": false,
+  "title": "Walk the Bridge",
+  "description": "Walk the Brooklyn Bridge promenade end to end, or start on the Brooklyn side and cross into Manhattan.",
+  "steps": [
+   "Stay in the pedestrian lane and watch for the bike lane.",
+   "Photograph the team under one of the stone arches.",
+   "Film a 10-second time-lapse of your walk."
+  ],
+  "proof": "1 photo + 1 video.",
+  "note": null,
+  "distanceMiles": 8.29,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Chambers St (1 2 3).",
+    "Walk ~10 min to the quest spot."
+   ],
+   "mins": 49,
+   "st": "Chambers St"
+  },
+  "sort": 41
+ },
+ {
+  "id": "TRN-04",
+  "category": "transit",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Chelsea",
+  "place": "Hudson River Greenway at Chelsea Piers",
+  "lat": 40.7465,
+  "lng": -74.008,
+  "anyLocation": false,
+  "title": "Two Wheels, One River",
+  "description": "Grab Citi Bikes and ride a stretch of the Hudson River Greenway, the city’s busiest bike path.",
+  "steps": [
+   "Unlock bikes in the Citi Bike or Lyft app.",
+   "Ride at least 15 blocks on the greenway.",
+   "Dock, then photograph the team with the bikes and the river."
+  ],
+  "proof": "1 photo + text: start and end dock names.",
+  "note": "Helmets recommended. Ride single file and stay to the right.",
+  "distanceMiles": 6.15,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown C train.",
+    "Ride to 23 St (C E).",
+    "Walk ~13 min to the quest spot.",
+    "Citi Bike docks line the greenway; unlock one near the river."
+   ],
+   "mins": 50,
+   "st": "23 St"
+  },
+  "sort": 42
+ },
+ {
+  "id": "TRN-05",
+  "category": "transit",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 15,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Theater District",
+  "place": "Anywhere (suggested: Times Square)",
+  "lat": 40.758,
+  "lng": -73.9855,
+  "anyLocation": true,
+  "title": "Taxi!",
+  "description": "Hail a yellow cab the old-fashioned way, with an arm in the air and no app.",
+  "steps": [
+   "Look for a cab with its roof number lit (that means it’s available).",
+   "Get a photo of the hail in progress.",
+   "Ride at least a few blocks and take a selfie in the back seat."
+  ],
+  "proof": "2 photos: the hail and the back-seat selfie.",
+  "note": null,
+  "distanceMiles": 4.94,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 50 St (1).",
+    "Walk ~7 min to the quest spot."
+   ],
+   "mins": 35,
+   "st": "50 St"
+  },
+  "sort": 43
+ },
+ {
+  "id": "TRN-06",
+  "category": "transit",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Theater District",
+  "place": "Times Sq–42 St station (many lines)",
+  "lat": 40.7553,
+  "lng": -73.9873,
+  "anyLocation": false,
+  "title": "Spell It With Trains",
+  "description": "Photograph subway line bullets on station signs to spell a real word. The longest word across all teams wins a tiebreaker.",
+  "steps": [
+   "Plan a word using only line letters (A B C D E F G J L M N Q R S W Z).",
+   "Find each letter on official station signage.",
+   "Photograph each bullet in order."
+  ],
+  "proof": "1 photo per letter + text: your word.",
+  "note": null,
+  "distanceMiles": 5.15,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Times Sq-42 St (1 2 3 7 A C E N Q R S W).",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 31,
+   "st": "Times Sq-42 St"
+  },
+  "sort": 44
+ },
+ {
+  "id": "TRN-07",
+  "category": "transit",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 4,
+  "groupSize": 3,
+  "minutes": 90,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Brooklyn Heights",
+  "place": "Finish line: Brooklyn Bridge Park, Pier 1",
+  "lat": 40.7022,
+  "lng": -73.9963,
+  "anyLocation": false,
+  "title": "Five-Mode Race",
+  "description": "Participating teams start at the same Manhattan point and race to the same Brooklyn finish line, each by a different mode of transport.",
+  "steps": [
+   "Setup: Three teams race: subway, ferry and Citi Bike.",
+   "Start together at the George Washington statue in Union Square Park.",
+   "Each team takes a different mode.",
+   "Photograph your mode in action and your finish-line arrival with a timestamp."
+  ],
+  "proof": "2 photos per team + text arrival time.",
+  "note": null,
+  "distanceMiles": 8.79,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Brooklyn-bound A/C train.",
+    "Ride to High St (A C).",
+    "Walk ~9 min to the quest spot.",
+    "Race start is Union Square; the directions above go to the Pier 1 finish line."
+   ],
+   "mins": 57,
+   "st": "High St"
+  },
+  "sort": 45
+ },
+ {
+  "id": "NAT-01",
+  "category": "nature",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Central Park",
+  "place": "Bethesda Terrace & Fountain, Central Park",
+  "lat": 40.774,
+  "lng": -73.9708,
+  "anyLocation": false,
+  "title": "Angel of the Waters",
+  "description": "Find the fountain at the heart of Central Park and its bronze angel.",
+  "steps": [
+   "Come down the grand staircase onto the terrace.",
+   "Photograph the team with the angel above you.",
+   "Look up the tiled ceiling of the arcade underneath and photograph that too."
+  ],
+  "proof": "2 photos + text: the statue’s name.",
+  "note": null,
+  "distanceMiles": 3.66,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/C train.",
+    "Ride to 72 St (B C).",
+    "Walk ~8 min to the quest spot."
+   ],
+   "mins": 40,
+   "st": "72 St"
+  },
+  "sort": 46
+ },
+ {
+  "id": "NAT-02",
+  "category": "nature",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Chelsea",
+  "place": "The High Line (Gansevoort St to W 34th St)",
+  "lat": 40.748,
+  "lng": -74.0048,
+  "anyLocation": false,
+  "title": "Rail to Trail",
+  "description": "Walk the elevated park built on an old freight line, from one end to the other.",
+  "steps": [
+   "Enter at Gansevoort St and walk north.",
+   "Find the sunken overlook with the big window above 10th Ave.",
+   "Frame the best \"street through a window\" shot."
+  ],
+  "proof": "1 photo + 1 video (10 sec max).",
+  "note": null,
+  "distanceMiles": 5.98,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown C train.",
+    "Ride to 23 St (C E).",
+    "Walk ~10 min to the quest spot."
+   ],
+   "mins": 47,
+   "st": "23 St"
+  },
+  "sort": 47
+ },
+ {
+  "id": "NAT-03",
+  "category": "nature",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 30,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "West Village",
+  "place": "Little Island, Pier 55 (W 13th St)",
+  "lat": 40.742,
+  "lng": -74.0102,
+  "anyLocation": false,
+  "title": "Tulip Island",
+  "description": "Climb to the highest overlook on the park that floats on tulip-shaped concrete pots in the Hudson.",
+  "steps": [
+   "Find the highest point on the island.",
+   "Take a team photo with the Hudson behind you.",
+   "Photograph the \"tulips\" from below at the entrance."
+  ],
+  "proof": "2 photos.",
+  "note": null,
+  "distanceMiles": 6.48,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown A/C train.",
+    "Ride to 8 Av (A C E L).",
+    "Walk ~11 min to the quest spot."
+   ],
+   "mins": 51,
+   "st": "8 Av"
+  },
+  "sort": 48
+ },
+ {
+  "id": "NAT-04",
+  "category": "nature",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 5,
+  "groupSize": null,
+  "minutes": 90,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Prospect Park",
+  "place": "Brooklyn Botanic Garden, 990 Washington Ave",
+  "lat": 40.6681,
+  "lng": -73.9632,
+  "anyLocation": false,
+  "title": "Into the Garden",
+  "description": "Explore the 52-acre garden and find its Japanese Hill-and-Pond Garden.",
+  "steps": [
+   "Check hours and admission before you go.",
+   "Find the red torii gate in the pond.",
+   "Photograph your best fall-color shot and name the tree if you can."
+  ],
+  "proof": "1 photo + text: the tree (or your best guess).",
+  "note": null,
+  "distanceMiles": 10.86,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Brooklyn-bound B train.",
+    "Ride to Prospect Park (B Q S).",
+    "Walk ~11 min to the quest spot."
+   ],
+   "mins": 66,
+   "st": "Prospect Park"
+  },
+  "sort": 49
+ },
+ {
+  "id": "NAT-05",
+  "category": "nature",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Central Park",
+  "place": "The Ramble, Central Park",
+  "lat": 40.7778,
+  "lng": -73.9708,
+  "anyLocation": false,
+  "title": "Hawk Watch",
+  "description": "Central Park is home to red-tailed hawks. Spot one in the wild and get a photo clear enough to prove it.",
+  "steps": [
+   "Scan tall trees and building ledges around the Ramble and the Reservoir.",
+   "Listen for crows mobbing something; it’s often a hawk.",
+   "Zoom in and get the reddish tail if you can."
+  ],
+  "proof": "1 photo the Game Master can verify. Pigeons do not count.",
+  "note": null,
+  "distanceMiles": 3.4,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/C train.",
+    "Ride to 81 St-Museum of Natural History (B C).",
+    "Walk ~7 min to the quest spot."
+   ],
+   "mins": 38,
+   "st": "81 St-Museum of Natural History"
+  },
+  "sort": 50
+ },
+ {
+  "id": "NAT-06",
+  "category": "nature",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 1,
+  "groupSize": null,
+  "minutes": 90,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Inwood",
+  "place": "Linden Terrace, Fort Tryon Park",
+  "lat": 40.862,
+  "lng": -73.9322,
+  "anyLocation": false,
+  "title": "Top of Manhattan",
+  "description": "Head to one of the highest points in Manhattan for a sweeping Hudson River and Palisades view near the Met Cloisters.",
+  "steps": [
+   "Take the A train to 190th St and walk into the park.",
+   "Find Linden Terrace overlooking the river.",
+   "Photograph the team with the George Washington Bridge in frame."
+  ],
+  "proof": "1 photo.",
+  "note": null,
+  "distanceMiles": 2.77,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take an uptown A train.",
+    "Ride to 190 St (A).",
+    "Walk ~6 min to the quest spot."
+   ],
+   "mins": 28,
+   "st": "190 St"
+  },
+  "sort": 51
+ },
+ {
+  "id": "NAT-07",
+  "category": "nature",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Queens",
+  "neighborhood": "Long Island City",
+  "place": "Gantry Plaza State Park, Long Island City",
+  "lat": 40.7454,
+  "lng": -73.9584,
+  "anyLocation": false,
+  "title": "Skyline From Across the Water",
+  "description": "Get the classic Midtown skyline from Queens, with the historic Pepsi-Cola sign in the frame.",
+  "steps": [
+   "Find the restored gantries on the river.",
+   "Line up the Empire State Building and the Pepsi-Cola sign.",
+   "Photograph the team, skyline behind you."
+  ],
+  "proof": "1 photo with the sign visible.",
+  "note": null,
+  "distanceMiles": 5.51,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to Times Sq-42 St.",
+    "Transfer to a Queens-bound 7 train and ride to Vernon Blvd-Jackson Av.",
+    "Walk ~8 min to the quest spot."
+   ],
+   "mins": 49,
+   "st": "Vernon Blvd-Jackson Av"
+  },
+  "sort": 52
+ },
+ {
+  "id": "NAT-08",
+  "category": "nature",
+  "type": "group",
+  "basePoints": 10,
+  "bonusPoints": 2,
+  "groupSize": 3,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Central Park",
+  "place": "Sheep Meadow, Central Park",
+  "lat": 40.7716,
+  "lng": -73.975,
+  "anyLocation": false,
+  "title": "Spell It on the Lawn",
+  "description": "Participating teams lie on the grass and spell a Friendsgiving word together, one letter per team, photographed from as high as you can manage.",
+  "steps": [
+   "Setup: Three teams spell \"PIE\" (one letter each).",
+   "Each team forms one letter with their bodies.",
+   "Ask a passerby to photograph from a slight rise or with an arm held high."
+  ],
+  "proof": "1 group photo where the word is readable.",
+  "note": "Sheep Meadow closes in late fall; use the Great Lawn or any open lawn instead.",
+  "distanceMiles": 3.88,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/C train.",
+    "Ride to 72 St (B C).",
+    "Walk ~7 min to the quest spot."
+   ],
+   "mins": 35,
+   "st": "72 St"
+  },
+  "sort": 53
+ },
+ {
+  "id": "PPL-01",
+  "category": "people",
+  "type": "team",
+  "basePoints": 15,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 90,
+  "submissionTypes": [
+   "video",
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "West Village",
+  "place": "Anywhere (suggested: West Village)",
+  "lat": 40.7339,
+  "lng": -74.004,
+  "anyLocation": true,
+  "title": "Ask a Local",
+  "description": "Find a real New Yorker, ask for their favorite cheap eat nearby, then go and eat it.",
+  "steps": [
+   "Confirm they live in the city (a tourist doesn’t count).",
+   "With permission, film them giving the recommendation.",
+   "Go there and photograph what you ordered."
+  ],
+  "proof": "1 video + 1 photo.",
+  "note": null,
+  "distanceMiles": 6.85,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to Christopher St-Sheridan Sq (1).",
+    "Walk ~2 min to the quest spot."
+   ],
+   "mins": 39,
+   "st": "Christopher St-Sheridan Sq"
+  },
+  "sort": 54
+ },
+ {
+  "id": "PPL-02",
+  "category": "people",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 15,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Gramercy",
+  "place": "Anywhere with street vendors (suggested: Union Square)",
+  "lat": 40.7359,
+  "lng": -73.9906,
+  "anyLocation": true,
+  "title": "What’s Your Name?",
+  "description": "Buy something from a street vendor, learn their name and one thing about them.",
+  "steps": [
+   "Buy something small.",
+   "Ask their name and how long they’ve had the spot.",
+   "Ask before taking any photo."
+  ],
+  "proof": "1 photo (with permission) + text: name and fact.",
+  "note": null,
+  "distanceMiles": 6.47,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 6 Av (1 2 3 F L M).",
+    "Walk ~10 min to the quest spot."
+   ],
+   "mins": 43,
+   "st": "6 Av"
+  },
+  "sort": 55
+ },
+ {
+  "id": "PPL-03",
+  "category": "people",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Lower East Side",
+  "place": "Anywhere (suggested: Lower East Side)",
+  "lat": 40.7181,
+  "lng": -73.9876,
+  "anyLocation": true,
+  "title": "Follow the Directions",
+  "description": "Phones away. Ask a stranger how to get to a landmark 10–15 minutes away, then follow their directions exactly.",
+  "steps": [
+   "Choose a destination before you ask.",
+   "Film the stranger’s directions (with permission) or narrate them afterward.",
+   "Film your arrival, or where the directions actually took you."
+  ],
+  "proof": "2 videos: the directions and the arrival.",
+  "note": null,
+  "distanceMiles": 7.62,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to Grand St (B D).",
+    "Walk ~8 min to the quest spot."
+   ],
+   "mins": 53,
+   "st": "Grand St"
+  },
+  "sort": 56
+ },
+ {
+  "id": "PPL-04",
+  "category": "people",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 15,
+  "submissionTypes": [
+   "text"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Williamsburg",
+  "place": "Any café (suggested: Williamsburg)",
+  "lat": 40.7178,
+  "lng": -73.9574,
+  "anyLocation": true,
+  "title": "Pay It Forward",
+  "description": "Buy a coffee for the next person in line and write up what happened.",
+  "steps": [
+   "Tell the cashier you’d like to pay for the next order (set a budget).",
+   "Let the person know if they ask.",
+   "Write up their reaction."
+  ],
+  "proof": "Text story (3–5 sentences).",
+  "note": null,
+  "distanceMiles": 7.42,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to 6 Av.",
+    "Transfer to a Brooklyn-bound L train and ride to Bedford Av.",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 53,
+   "st": "Bedford Av"
+  },
+  "sort": 57
+ },
+ {
+  "id": "PPL-05",
+  "category": "people",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 5,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Park Slope",
+  "place": "Any Little Free Library (suggested: Park Slope)",
+  "lat": 40.672,
+  "lng": -73.9778,
+  "anyLocation": true,
+  "title": "Note in a Book",
+  "description": "Leave a kind, anonymous note in a book in a Little Free Library for the next reader.",
+  "steps": [
+   "Find a Little Free Library box on a residential block.",
+   "Tuck a handwritten note inside a book.",
+   "Leave a book of your own if you have one."
+  ],
+  "proof": "1 photo of the note in the book (blur any names).",
+  "note": null,
+  "distanceMiles": 10.66,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Brooklyn-bound B train.",
+    "Ride to 7 Av (B Q).",
+    "Walk ~11 min to the quest spot."
+   ],
+   "mins": 68,
+   "st": "7 Av"
+  },
+  "sort": 58
+ },
+ {
+  "id": "PPL-06",
+  "category": "people",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "East Village",
+  "place": "Union Sq–14 St station (or any busy station)",
+  "lat": 40.7347,
+  "lng": -73.9906,
+  "anyLocation": true,
+  "title": "Support the Underground",
+  "description": "Tip a subway or street performer and ask for a photo with them.",
+  "steps": [
+   "Listen to at least one full song or act.",
+   "Tip, then ask politely for a photo.",
+   "If they say no, film 5 seconds of the act instead."
+  ],
+  "proof": "1 photo or 1 video.",
+  "note": null,
+  "distanceMiles": 6.55,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to Times Sq-42 St.",
+    "Transfer to a downtown N/Q/R/W train and ride to 14 St-Union Sq.",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 42,
+   "st": "14 St-Union Sq"
+  },
+  "sort": 59
+ },
+ {
+  "id": "PPL-07",
+  "category": "people",
+  "type": "team",
+  "basePoints": 15,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "video",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Greenwich Village",
+  "place": "Washington Square Park",
+  "lat": 40.7308,
+  "lng": -73.9973,
+  "anyLocation": false,
+  "title": "Compliment Chain",
+  "description": "Give 15 sincere compliments to strangers around Washington Square Park and capture one great reaction.",
+  "steps": [
+   "Give 15 genuine compliments (no pickup lines).",
+   "Keep a running tally.",
+   "Film one reaction, with permission."
+  ],
+  "proof": "1 video + text tally.",
+  "note": null,
+  "distanceMiles": 6.92,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown A/B/C/D train.",
+    "Ride to W 4 St-Wash Sq (A B C D E F M).",
+    "Walk ~5 min to the quest spot."
+   ],
+   "mins": 46,
+   "st": "W 4 St-Wash Sq"
+  },
+  "sort": 60
+ },
+ {
+  "id": "PPL-08",
+  "category": "people",
+  "type": "team",
+  "basePoints": 15,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 120,
+  "submissionTypes": [
+   "video",
+   "text"
+  ],
+  "borough": "Queens",
+  "neighborhood": "Flushing",
+  "place": "Flushing, Main St & Roosevelt Ave",
+  "lat": 40.7596,
+  "lng": -73.8303,
+  "anyLocation": false,
+  "title": "Hello in Five Languages",
+  "description": "Queens is among the most linguistically diverse places on Earth. Learn \"hello\" in five languages from people who speak them.",
+  "steps": [
+   "Start around Main St in Flushing or Roosevelt Ave in Jackson Heights.",
+   "Ask people to teach you hello in their language.",
+   "Film each teammate repeating it back, with permission."
+  ],
+  "proof": "Videos + text list of the five languages.",
+  "note": null,
+  "distanceMiles": 7.84,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to Times Sq-42 St.",
+    "Transfer to a Queens-bound 7 train and ride to Flushing-Main St.",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 63,
+   "st": "Flushing-Main St"
+  },
+  "sort": 61
+ },
+ {
+  "id": "QRK-01",
+  "category": "quirky",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "place": "Anywhere (suggested: Midtown)",
+  "lat": 40.7549,
+  "lng": -73.984,
+  "anyLocation": true,
+  "title": "Stereotype Bingo",
+  "description": "Collect five classic NYC sights in one outing.",
+  "steps": [
+   "Find: a hot dog cart, a pigeon on a statue, a person dressed head to toe in black, an orange-and-white steam stack, and a bodega with a cat.",
+   "Photograph each one, with a teammate pointing at it.",
+   "Combine into one collage if you can."
+  ],
+  "proof": "5 photos or 1 collage.",
+  "note": null,
+  "distanceMiles": 5.12,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to 42 St-Bryant Pk (7 B D F M).",
+    "Walk ~2 min to the quest spot."
+   ],
+   "mins": 35,
+   "st": "42 St-Bryant Pk"
+  },
+  "sort": 62
+ },
+ {
+  "id": "QRK-02",
+  "category": "quirky",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 30,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "East Village",
+  "place": "Anywhere (suggested: East Village)",
+  "lat": 40.7265,
+  "lng": -73.9815,
+  "anyLocation": true,
+  "title": "Pun Intended",
+  "description": "Find the most groan-worthy pun in a real business name or sign.",
+  "steps": [
+   "Scan storefronts, awnings and menu boards.",
+   "Photograph the sign with a teammate groaning.",
+   "The Game Master ranks the puns at the end."
+  ],
+  "proof": "1 photo + text: the pun.",
+  "note": null,
+  "distanceMiles": 6.98,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to 6 Av.",
+    "Transfer to a downtown L train and ride to 1 Av.",
+    "Walk ~8 min to the quest spot."
+   ],
+   "mins": 56,
+   "st": "1 Av"
+  },
+  "sort": 63
+ },
+ {
+  "id": "QRK-03",
+  "category": "quirky",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 30,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "East Village",
+  "place": "First Ave L station (E 14th St)",
+  "lat": 40.7308,
+  "lng": -73.9817,
+  "anyLocation": false,
+  "title": "Pizza Rat Returns",
+  "description": "Reenact the viral 2015 Pizza Rat video near the station where it was filmed.",
+  "steps": [
+   "Buy one slice (one teammate is the rat).",
+   "Film the rat \"dragging\" the slice down a short section of stairs, on the wall side.",
+   "Keep it under 10 seconds and away from rush hour."
+  ],
+  "proof": "1 video (10 sec max).",
+  "note": "Don’t block other riders. Eating the prop afterward is encouraged.",
+  "distanceMiles": 6.69,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to 6 Av.",
+    "Transfer to a downtown L train and ride to 1 Av.",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 48,
+   "st": "1 Av"
+  },
+  "sort": 64
+ },
+ {
+  "id": "QRK-04",
+  "category": "quirky",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 15,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Flatiron District",
+  "place": "Anywhere",
+  "lat": 40.7411,
+  "lng": -73.9897,
+  "anyLocation": true,
+  "title": "Pigeon With a Plan",
+  "description": "Photograph a pigeon doing something un-pigeon-like: riding a train, standing on a sign, \"reading\" a menu.",
+  "steps": [
+   "Keep your distance; don’t feed or chase them.",
+   "Wait for the perfect moment.",
+   "Give the photo a caption."
+  ],
+  "proof": "1 photo + text caption.",
+  "note": null,
+  "distanceMiles": 6.12,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to Times Sq-42 St.",
+    "Transfer to a downtown R/W train and ride to 23 St.",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 41,
+   "st": "23 St"
+  },
+  "sort": 65
+ },
+ {
+  "id": "QRK-05",
+  "category": "quirky",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Theater District",
+  "place": "TKTS red steps, Times Square",
+  "lat": 40.759,
+  "lng": -73.9845,
+  "anyLocation": false,
+  "title": "Maximum Tourist",
+  "description": "Commit fully to being the most stereotypical tourists in Times Square for 10 seconds.",
+  "steps": [
+   "Look up, mouths open, map out (paper is a bonus).",
+   "Film from the red steps with billboards behind you.",
+   "Add a voiceover in your best \"first time in the big city\" voice."
+  ],
+  "proof": "1 video (10 sec max).",
+  "note": "Costumed characters will ask for tips if you photograph them.",
+  "distanceMiles": 4.86,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 50 St (1).",
+    "Walk ~5 min to the quest spot."
+   ],
+   "mins": 33,
+   "st": "50 St"
+  },
+  "sort": 66
+ },
+ {
+  "id": "QRK-06",
+  "category": "quirky",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "DUMBO",
+  "place": "DUMBO, Washington St & Water St",
+  "lat": 40.7033,
+  "lng": -73.9897,
+  "anyLocation": false,
+  "title": "The Manhattan Bridge Frame",
+  "description": "Shoot the famous Washington Street view, Manhattan Bridge framing the Empire State Building, but make it absurd.",
+  "steps": [
+   "Stand in the middle of Washington St only when it’s safe (it’s a live street).",
+   "Everyone holds a random object as if it’s an award.",
+   "Give the image an award-show title."
+  ],
+  "proof": "1 photo + text title.",
+  "note": null,
+  "distanceMiles": 8.64,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Brooklyn-bound A/C train.",
+    "Ride to High St (A C).",
+    "Walk ~7 min to the quest spot."
+   ],
+   "mins": 58,
+   "st": "High St"
+  },
+  "sort": 67
+ },
+ {
+  "id": "QRK-07",
+  "category": "quirky",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 3,
+  "groupSize": 2,
+  "minutes": 30,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Gramercy",
+  "place": "Union Square Park (south plaza)",
+  "lat": 40.7353,
+  "lng": -73.9905,
+  "anyLocation": false,
+  "title": "Freeze!",
+  "description": "On a signal, every participant freezes mid-motion for 60 seconds in a public plaza. Film the reactions around you.",
+  "steps": [
+   "Setup: Two teams freeze on opposite sides of the plaza and film each other.",
+   "Agree on an exact time in the group chat.",
+   "Scatter across the plaza and pick a mid-motion pose (tying a shoe, mid-bite, mid-high-five).",
+   "One person per team films a different angle."
+  ],
+  "proof": "1 video per team (60 sec max).",
+  "note": null,
+  "distanceMiles": 6.51,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to Times Sq-42 St.",
+    "Transfer to a downtown N/Q/R/W train and ride to 14 St-Union Sq.",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 42,
+   "st": "14 St-Union Sq"
+  },
+  "sort": 68
+ },
+ {
+  "id": "SEA-01",
+  "category": "season",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 30,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Central Park",
+  "place": "The Pond & Gapstow Bridge, Central Park",
+  "lat": 40.766,
+  "lng": -73.974,
+  "anyLocation": false,
+  "title": "Peak Leaf",
+  "description": "Capture the best fall foliage shot in Central Park with the stone Gapstow Bridge and Midtown towers behind.",
+  "steps": [
+   "Enter at Fifth Ave & 59th and walk to the Pond.",
+   "Frame the bridge with orange and red trees.",
+   "Take a version with your team in it too."
+  ],
+  "proof": "2 photos (scenery + team).",
+  "note": null,
+  "distanceMiles": 4.23,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train to 47-50 Sts-Rockefeller Ctr.",
+    "Transfer to an uptown F train and ride to 57 St.",
+    "Walk ~6 min to the quest spot."
+   ],
+   "mins": 37,
+   "st": "57 St"
+  },
+  "sort": 69
+ },
+ {
+  "id": "SEA-02",
+  "category": "season",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "place": "W 69th St between Central Park W & Columbus Ave",
+  "lat": 40.7752,
+  "lng": -73.9792,
+  "anyLocation": false,
+  "title": "Best Dressed Stoop",
+  "description": "This Upper West Side block is known for going all out on fall and Halloween stoop decorations. Find the most over-the-top one.",
+  "steps": [
+   "Walk the block from both sides.",
+   "Photograph the winner from the sidewalk only.",
+   "Find one decoration in the same color as a teammate’s outfit."
+  ],
+  "proof": "2 photos.",
+  "note": "Decorations peak in late October. Never climb residents’ stoops.",
+  "distanceMiles": 3.72,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 72 St (1 2 3).",
+    "Walk ~7 min to the quest spot."
+   ],
+   "mins": 30,
+   "st": "72 St"
+  },
+  "sort": 70
+ },
+ {
+  "id": "SEA-03",
+  "category": "season",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 20,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "SoHo",
+  "place": "Anywhere",
+  "lat": 40.723,
+  "lng": -74.0006,
+  "anyLocation": true,
+  "title": "Pumpkin Where It Shouldn’t Be",
+  "description": "Find a pumpkin or gourd in the most unexpected place in the city.",
+  "steps": [
+   "Look in bodega windows, office lobbies and fire escapes.",
+   "Photograph it in context.",
+   "The weirdest location wins a tiebreaker."
+  ],
+  "proof": "1 photo + text: where it was.",
+  "note": null,
+  "distanceMiles": 7.49,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown C train.",
+    "Ride to Spring St (C E).",
+    "Walk ~7 min to the quest spot."
+   ],
+   "mins": 47,
+   "st": "Spring St"
+  },
+  "sort": 71
+ },
+ {
+  "id": "SEA-04",
+  "category": "season",
+  "type": "team",
+  "basePoints": 5,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 30,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Chelsea",
+  "place": "Anywhere",
+  "lat": 40.7505,
+  "lng": -73.9934,
+  "anyLocation": true,
+  "title": "Pumpkin Spice Triple",
+  "description": "Find three different pumpkin-spice products in the wild: a menu board, a shelf, a cart.",
+  "steps": [
+   "Each product must come from a different shop.",
+   "Photograph each with a teammate’s skeptical face.",
+   "Rank all three on a \"spice level\" from 1 to 5."
+  ],
+  "proof": "3 photos + text ranking.",
+  "note": null,
+  "distanceMiles": 5.58,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 34 St-Penn Station (1 2 3).",
+    "Walk ~3 min to the quest spot."
+   ],
+   "mins": 34,
+   "st": "34 St-Penn Station"
+  },
+  "sort": 72
+ },
+ {
+  "id": "SEA-05",
+  "category": "season",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Gramercy",
+  "place": "Union Square Greenmarket",
+  "lat": 40.737,
+  "lng": -73.99,
+  "anyLocation": false,
+  "title": "Farm to Friendsgiving",
+  "description": "Buy one Friendsgiving ingredient straight from a regional farmer at the city’s best-known farmers market.",
+  "steps": [
+   "Go on a market day (Mon, Wed, Fri or Sat).",
+   "Buy one seasonal item (apple cider donuts count).",
+   "Ask the farmer where the farm is."
+  ],
+  "proof": "1 photo + text: farm name and town.",
+  "note": null,
+  "distanceMiles": 6.39,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train.",
+    "Ride to 6 Av (1 2 3 F L M).",
+    "Walk ~10 min to the quest spot."
+   ],
+   "mins": 45,
+   "st": "6 Av"
+  },
+  "sort": 73
+ },
+ {
+  "id": "SEA-06",
+  "category": "season",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 2,
+  "groupSize": 3,
+  "minutes": 90,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Upper West Side",
+  "place": "Around the American Museum of Natural History (W 77th–81st Sts)",
+  "lat": 40.7813,
+  "lng": -73.974,
+  "anyLocation": false,
+  "title": "Balloon Night",
+  "description": "On the evening before Thanksgiving, the Macy’s Parade balloons are inflated on the streets around the natural history museum. All teams go together.",
+  "steps": [
+   "Setup: Three teams each photograph a different balloon.",
+   "Only on Wednesday, Nov 25, 2026. Confirm public viewing hours and the entry point.",
+   "Shoot one group video in the viewing line."
+  ],
+  "proof": "1 photo per team + 1 group video.",
+  "note": "Date-dependent. Only offer this if the trip includes Thanksgiving Eve.",
+  "distanceMiles": 3.22,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/C train.",
+    "Ride to 81 St-Museum of Natural History (B C).",
+    "Walk ~2 min to the quest spot."
+   ],
+   "mins": 31,
+   "st": "81 St-Museum of Natural History"
+  },
+  "sort": 74
+ },
+ {
+  "id": "SEA-07",
+  "category": "season",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 4,
+  "groupSize": 2,
+  "minutes": 60,
+  "submissionTypes": [
+   "video"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Williamsburg",
+  "place": "Domino Park, Williamsburg waterfront",
+  "lat": 40.7145,
+  "lng": -73.9682,
+  "anyLocation": false,
+  "title": "Sunset Thank-You",
+  "description": "All teams meet on the waterfront at sunset and each gives a 15-second \"what I’m thankful for\" toast, with Manhattan behind you.",
+  "steps": [
+   "Setup: Two teams each give a 15-second toast, filmed in one take.",
+   "Check the sunset time and meet 20 minutes early.",
+   "Each team toasts with any drink (cider works).",
+   "Film every toast in one take, or stitch them together."
+  ],
+  "proof": "1 combined video.",
+  "note": null,
+  "distanceMiles": 7.68,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train to 47-50 Sts-Rockefeller Ctr.",
+    "Transfer to a Brooklyn-bound M train and ride to Marcy Av.",
+    "From the station it’s a ~17 min walk; a local bus or cab is quicker for the last stretch."
+   ],
+   "mins": 68,
+   "st": "Marcy Av"
+  },
+  "sort": 75
+ },
+ {
+  "id": "SEA-08",
+  "category": "season",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 4,
+  "groupSize": 2,
+  "minutes": 180,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "SoHo",
+  "place": "Village Halloween Parade, Sixth Ave from Spring St",
+  "lat": 40.7255,
+  "lng": -74.004,
+  "anyLocation": false,
+  "title": "Costume Collective",
+  "description": "All teams wear one coordinated group costume to the Village Halloween Parade, where anyone in costume can march.",
+  "steps": [
+   "Setup: Two teams form one two-part costume (for example salt and pepper).",
+   "Only on Oct 31. Check the official site for line-up rules.",
+   "Each team plays one part of a single themed costume.",
+   "Get a group photo in the line-up and a video of the march."
+  ],
+  "proof": "1 group photo + 1 video.",
+  "note": "Date-dependent. Only offer this if the trip includes Oct 31.",
+  "distanceMiles": 7.39,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown C train.",
+    "Ride to Spring St (C E).",
+    "Walk ~1 min to the quest spot."
+   ],
+   "mins": 43,
+   "st": "Spring St"
+  },
+  "sort": 76
+ },
+ {
+  "id": "BOR-01",
+  "category": "boro",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 4,
+  "groupSize": null,
+  "minutes": 120,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Queens",
+  "neighborhood": "Flushing Meadows Corona Park",
+  "place": "Unisphere, Flushing Meadows Corona Park",
+  "lat": 40.7465,
+  "lng": -73.8449,
+  "anyLocation": false,
+  "title": "Hold the World",
+  "description": "Travel to the steel globe from the 1964 World’s Fair and hold it in your hand with forced perspective.",
+  "steps": [
+   "Take the 7 train to Mets–Willets Point and walk into the park.",
+   "Line up a forced-perspective shot so the globe sits in a teammate’s palm.",
+   "Also take one shot with the full team and the globe."
+  ],
+  "proof": "2 photos.",
+  "note": null,
+  "distanceMiles": 7.83,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to Times Sq-42 St.",
+    "Transfer to a Queens-bound 7 train and ride to 111 St.",
+    "From the station it’s a ~16 min walk; a local bus or cab is quicker for the last stretch."
+   ],
+   "mins": 74,
+   "st": "111 St"
+  },
+  "sort": 77
+ },
+ {
+  "id": "BOR-02",
+  "category": "boro",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 180,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Bronx",
+  "neighborhood": "Bronx Park",
+  "place": "Bronx Zoo, Southern Blvd entrance",
+  "lat": 40.8506,
+  "lng": -73.877,
+  "anyLocation": false,
+  "title": "Wild Bronx",
+  "description": "Visit the country’s largest urban zoo and grab a team selfie with an animal behind you.",
+  "steps": [
+   "Check hours and tickets ahead (the zoo is a paid admission).",
+   "Pick your animal: gorilla, tiger, sea lion.",
+   "Selfie with the animal clearly visible."
+  ],
+  "proof": "1 photo.",
+  "note": null,
+  "distanceMiles": 4.33,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to 96 St.",
+    "Transfer to a Bronx-bound 2 train and ride to Bronx Park East.",
+    "Walk ~12 min to the quest spot."
+   ],
+   "mins": 61,
+   "st": "Bronx Park East"
+  },
+  "sort": 78
+ },
+ {
+  "id": "BOR-03",
+  "category": "boro",
+  "type": "team",
+  "basePoints": 15,
+  "bonusPoints": 5,
+  "groupSize": null,
+  "minutes": 180,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Coney Island",
+  "place": "Coney Island boardwalk & Nathan's Famous",
+  "lat": 40.5755,
+  "lng": -73.9814,
+  "anyLocation": false,
+  "title": "End of the Line",
+  "description": "Take the subway to the end of the line and complete the Coney Island trifecta: boardwalk, Wonder Wheel and a hot dog.",
+  "steps": [
+   "Take the D, F, N or Q to Coney Island–Stillwell Ave.",
+   "Photograph the team on the boardwalk with the Wonder Wheel behind.",
+   "Eat a hot dog at Nathan’s original location."
+  ],
+  "proof": "2 photos + text: how long the ride took.",
+  "note": "Most rides close for the season in fall; the boardwalk and Nathan’s stay open.",
+  "distanceMiles": 17.31,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Brooklyn-bound D train.",
+    "Ride to Coney Island-Stillwell Av (D F N Q).",
+    "Walk ~3 min to the quest spot."
+   ],
+   "mins": 91,
+   "st": "Coney Island-Stillwell Av"
+  },
+  "sort": 79
+ },
+ {
+  "id": "BOR-04",
+  "category": "boro",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 1,
+  "groupSize": null,
+  "minutes": 90,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Bronx",
+  "neighborhood": "Concourse",
+  "place": "Yankee Stadium, E 161st St",
+  "lat": 40.8296,
+  "lng": -73.9262,
+  "anyLocation": false,
+  "title": "The House That Ruth Built",
+  "description": "Visit the Bronx’s ballpark and pose outside like you just hit a walk-off.",
+  "steps": [
+   "Take the 4, B or D to 161st St–Yankee Stadium.",
+   "Find a big Yankees logo on the exterior.",
+   "Recreate a home-run trot or a celebration pile."
+  ],
+  "proof": "1 photo.",
+  "note": null,
+  "distanceMiles": 1.42,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a Bronx-bound B/D train.",
+    "Ride to 161 St-Yankee Stadium (4 B D).",
+    "Walk ~3 min to the quest spot."
+   ],
+   "mins": 26,
+   "st": "161 St-Yankee Stadium"
+  },
+  "sort": 80
+ },
+ {
+  "id": "BOR-05",
+  "category": "boro",
+  "type": "team",
+  "basePoints": 10,
+  "bonusPoints": 2,
+  "groupSize": null,
+  "minutes": 90,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Queens",
+  "neighborhood": "Ditmars Steinway",
+  "place": "Astoria Park, under the Hell Gate Bridge",
+  "lat": 40.7787,
+  "lng": -73.9223,
+  "anyLocation": false,
+  "title": "Hell Gate",
+  "description": "Head to Astoria Park, where the Hell Gate and RFK bridges meet over the East River.",
+  "steps": [
+   "Walk to the riverfront path between the two bridges.",
+   "Photograph the team with the steel arch of the Hell Gate behind.",
+   "Grab a Greek pastry or a frappé on Ditmars Blvd and name it."
+  ],
+  "proof": "1 photo + text: what you ate.",
+  "note": null,
+  "distanceMiles": 3.58,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to Times Sq-42 St.",
+    "Transfer to a Queens-bound N/W train and ride to Astoria Blvd.",
+    "From the station it’s a ~16 min walk; a local bus or cab is quicker for the last stretch."
+   ],
+   "mins": 72,
+   "st": "Astoria Blvd"
+  },
+  "sort": 81
+ },
+ {
+  "id": "BOR-06",
+  "category": "boro",
+  "type": "team",
+  "basePoints": 15,
+  "bonusPoints": 3,
+  "groupSize": null,
+  "minutes": 240,
+  "submissionTypes": [
+   "photo",
+   "text"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Midtown",
+  "place": "All four boroughs (starting point: anywhere)",
+  "lat": 40.7484,
+  "lng": -73.9857,
+  "anyLocation": true,
+  "title": "Borough Passport",
+  "description": "In a single day, collect proof that your team set foot in all four allowed boroughs: Manhattan, Brooklyn, Queens and the Bronx.",
+  "steps": [
+   "In each borough, photograph a street sign or landmark that proves where you are.",
+   "Each photo must include a teammate.",
+   "Text the time of each stamp."
+  ],
+  "proof": "4 photos + text: the four timestamps.",
+  "note": "Staten Island is off-limits for this trip and doesn’t count.",
+  "distanceMiles": 5.57,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train.",
+    "Ride to 34 St-Herald Sq (B D F M N Q R W).",
+    "Walk ~4 min to the quest spot.",
+    "Plan a loop: Bronx and Manhattan first, then Queens via the 7 and Brooklyn via the A or L."
+   ],
+   "mins": 39,
+   "st": "34 St-Herald Sq"
+  },
+  "sort": 82
+ },
+ {
+  "id": "BOR-07",
+  "category": "boro",
+  "type": "group",
+  "basePoints": 10,
+  "bonusPoints": 2,
+  "groupSize": 3,
+  "minutes": 45,
+  "submissionTypes": [
+   "photo"
+  ],
+  "borough": "Manhattan",
+  "neighborhood": "Roosevelt Island",
+  "place": "Teams spread across boroughs",
+  "lat": 40.758,
+  "lng": -73.95,
+  "anyLocation": true,
+  "title": "Simultaneous Snap",
+  "description": "At one exact agreed minute, teams in different boroughs each take a photo of the sky. Then post them side by side.",
+  "steps": [
+   "Setup: Three teams in three different boroughs.",
+   "Agree on the minute in the group chat.",
+   "At that minute, photograph the sky plus a borough landmark."
+  ],
+  "proof": "1 photo per team + one combined post.",
+  "note": null,
+  "distanceMiles": 4.64,
+  "route": {
+   "steps": [
+    "Walk ~9 min to 145 St on St Nicholas Ave and take a downtown B/D train to 47-50 Sts-Rockefeller Ctr.",
+    "Transfer to an uptown F train and ride to Roosevelt Island.",
+    "Walk ~5 min to the quest spot.",
+    "Each team heads to a different borough before the agreed minute."
+   ],
+   "mins": 52,
+   "st": "Roosevelt Island"
+  },
+  "sort": 83
+ },
+ {
+  "id": "BOR-08",
+  "category": "boro",
+  "type": "group",
+  "basePoints": 15,
+  "bonusPoints": 4,
+  "groupSize": 2,
+  "minutes": 60,
+  "submissionTypes": [
+   "photo",
+   "video"
+  ],
+  "borough": "Brooklyn",
+  "neighborhood": "Williamsburg",
+  "place": "Williamsburg Bridge (pedestrian path)",
+  "lat": 40.7134,
+  "lng": -73.9723,
+  "anyLocation": false,
+  "title": "Wave Across the Bridge",
+  "description": "Teams position themselves at the Manhattan end, the middle and the Brooklyn end of the bridge, then wave to each other on camera.",
+  "steps": [
+   "Setup: Two teams start at opposite ends and meet in the middle.",
+   "Assign positions in the group chat.",
+   "At a set time, every team waves and films the next team down the line.",
+   "Then all teams walk to the middle for a group photo."
+  ],
+  "proof": "1 video per team + 1 group photo.",
+  "note": null,
+  "distanceMiles": 7.79,
+  "route": {
+   "steps": [
+    "Walk ~3 min to 145 St on Broadway and take a downtown 1 train to 6 Av.",
+    "Transfer to a downtown F/M train and ride to Delancey St-Essex St.",
+    "Walk ~7 min to the pedestrian entrance at Delancey & Clinton Sts and head onto the bridge."
+   ],
+   "mins": 74,
+   "st": "Delancey St-Essex St"
+  },
+  "sort": 84
+ }
+]

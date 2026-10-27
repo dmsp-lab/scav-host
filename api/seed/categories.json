@@ -1,0 +1,46 @@
+[
+ {
+  "id": "pop",
+  "name": "Pop"
+ },
+ {
+  "id": "hist",
+  "name": "History"
+ },
+ {
+  "id": "arch",
+  "name": "Architecture"
+ },
+ {
+  "id": "food",
+  "name": "Food"
+ },
+ {
+  "id": "art",
+  "name": "Art"
+ },
+ {
+  "id": "transit",
+  "name": "Transit"
+ },
+ {
+  "id": "nature",
+  "name": "Nature"
+ },
+ {
+  "id": "people",
+  "name": "People"
+ },
+ {
+  "id": "quirky",
+  "name": "Quirky"
+ },
+ {
+  "id": "season",
+  "name": "Seasonal"
+ },
+ {
+  "id": "boro",
+  "name": "Explorer"
+ }
+]

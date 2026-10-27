@@ -1,0 +1,110 @@
+# Friendsgiving scavenger hunt stack.
+#
+#   Laptop (Docker Desktop):  cp .env.example .env && docker compose up --build
+#                             then open http://localhost:8080
+#   Roommate's server:        see README.md, "Deploying to the on-prem server"
+#
+# Services: web (Caddy + React), api, worker (media processing), storage (SeaweedFS, S3-compatible),
+# db (Postgres, only with the "localdb" profile), tunnel (Cloudflare, only with the "tunnel" profile).
+
+x-app-env: &app-env
+  DATABASE_URL: ${DATABASE_URL:-postgres://scav:scav@db:5432/scav}
+  DATABASE_SSL: ${DATABASE_SSL:-false}
+  SESSION_SECRET: ${SESSION_SECRET:?Set SESSION_SECRET in .env}
+  PARTY_CODE: ${PARTY_CODE:-gobble}
+  ADMIN_CODE: ${ADMIN_CODE:?Set ADMIN_CODE in .env}
+  ADMIN_NAME: ${ADMIN_NAME:-Game Master}
+  COOKIE_SECURE: ${COOKIE_SECURE:-false}
+  PUBLIC_URL: ${PUBLIC_URL:-http://localhost:8080}
+  S3_ENDPOINT: http://storage:8333
+  S3_BUCKET: scav-media
+  S3_ACCESS_KEY: ${S3_ACCESS_KEY:?Set S3_ACCESS_KEY in .env}
+  S3_SECRET_KEY: ${S3_SECRET_KEY:?Set S3_SECRET_KEY in .env}
+  MAX_IMAGE_MB: ${MAX_IMAGE_MB:-25}
+  MAX_VIDEO_MB: ${MAX_VIDEO_MB:-400}
+
+services:
+  web:
+    image: ${IMAGE_PREFIX:-scav-host}-web:${IMAGE_TAG:-latest}
+    build: ./web
+    ports:
+      - "${WEB_PORT:-8080}:80"
+    depends_on: [api, storage]
+    restart: unless-stopped
+
+  api:
+    image: ${IMAGE_PREFIX:-scav-host}-api:${IMAGE_TAG:-latest}
+    build: ./api
+    environment:
+      <<: *app-env
+      SEED_ON_START: ${SEED_ON_START:-true}
+    depends_on:
+      storage:
+        condition: service_started
+      db:
+        condition: service_healthy
+        required: false   # only when the localdb profile is on
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/api/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+    restart: unless-stopped
+
+  worker:
+    image: ${IMAGE_PREFIX:-scav-host}-api:${IMAGE_TAG:-latest}
+    command: ["node", "dist/worker.js"]
+    environment: *app-env
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+
+  storage:
+    image: chrislusf/seaweedfs:${SEAWEEDFS_VERSION:-4.51}
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - |
+        printf '{"identities":[{"name":"app","credentials":[{"accessKey":"%s","secretKey":"%s"}],"actions":["Admin","Read","Write","List","Tagging"]}]}' "$$S3_ACCESS_KEY" "$$S3_SECRET_KEY" > /tmp/s3.json
+        exec weed server -dir=/data -ip=storage -ip.bind=0.0.0.0 -s3 -s3.port=8333 -s3.config=/tmp/s3.json -master.volumeSizeLimitMB=1024 -volume.max=0
+    environment:
+      S3_ACCESS_KEY: ${S3_ACCESS_KEY}
+      S3_SECRET_KEY: ${S3_SECRET_KEY}
+    volumes:
+      - media:/data
+    restart: unless-stopped
+
+  # Local Postgres for development. On the server, point DATABASE_URL at your roommate's database
+  # and leave the "localdb" profile off.
+  db:
+    profiles: ["localdb"]
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: scav
+      POSTGRES_PASSWORD: scav
+      POSTGRES_DB: scav
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U scav"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+  # Public HTTPS without opening router ports. Needs TUNNEL_TOKEN from the Cloudflare dashboard.
+  tunnel:
+    profiles: ["tunnel"]
+    image: cloudflare/cloudflared:latest
+    command: tunnel --no-autoupdate run
+    environment:
+      TUNNEL_TOKEN: ${TUNNEL_TOKEN:-}
+    depends_on: [web]
+    restart: unless-stopped
+
+volumes:
+  media:
+  pgdata:
